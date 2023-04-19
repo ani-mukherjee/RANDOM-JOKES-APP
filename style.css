@@ -50,7 +50,10 @@ button:hover{
 
 @media only screen and (max-width: 650px){
   .main{
-    width: 320px;
+    width: 325px;
+  }
+  h1{
+    font-size: 23px;
   }
   p{
     padding: 3px;
