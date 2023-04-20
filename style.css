@@ -60,7 +60,7 @@ button:hover{
 @media only screen and (max-width: 650px){
   .main{
     width: 330px;
-    height: 550px;
+    height: 590px;
   }
   h1{
     font-size: 20px;
@@ -70,8 +70,8 @@ button:hover{
     font-size: medium;
   }
   img{
-    width: auto;
-    height: auto;
+    width: 90px;
+    height: 50px;
   }
   button{
     margin-left: 30%;
