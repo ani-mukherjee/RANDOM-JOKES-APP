@@ -70,7 +70,8 @@ button:hover{
     font-size: medium;
   }
   img{
-    width: 120px;
+    width: auto;
+    height: auto;
   }
   button{
     margin-left: 30%;
