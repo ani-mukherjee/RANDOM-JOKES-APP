@@ -18,7 +18,7 @@ body{
     background-color: #bdcceb;
     padding: 20px;
     width: 830px;
-    
+    height: auto;
 }
 h1{
     text-align: center;
