@@ -60,13 +60,13 @@ button:hover{
 @media only screen and (max-width: 650px){
   .main{
     width: 330px;
-    height: 630px;
+    height: 550px;
   }
   h1{
     font-size: 20px;
   }
-  p{
-    padding: 5px;
+  table tr th{
+    padding: 3px;
     font-size: medium;
   }
   button{
